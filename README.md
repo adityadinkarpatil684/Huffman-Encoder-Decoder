@@ -85,6 +85,8 @@ File decompressed successfully into decompressed.txt
 
 ---
 
+![image alt](https://github.com/adityadinkarpatil684/Huffman-Encoder-Decoder/blob/04a96408da94bfa305d919bcfc88d28a5e71ab06/Screenshot%202025-08-25%20191621.png)
+
 ## 📖 References
 
 * Huffman, D. A. (1952). *A Method for the Construction of Minimum-Redundancy Codes.* Proceedings of the IRE.
